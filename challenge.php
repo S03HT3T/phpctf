@@ -6,11 +6,5 @@
 	<title></title>
 </head>
 <body>
-<?php
-
-echo ("hello");
-
-show_source("challenge.php");
-?>
 </body>
 </html>
